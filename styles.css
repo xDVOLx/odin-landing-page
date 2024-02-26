@@ -118,6 +118,37 @@ body {
     font-weight: bold;
 }
 
+.signup {
+    padding: 64px 256px;
+}
+
+.signup-box {
+    background-color: #3882f6;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 36px 200px 36px 112px;
+    color: white;
+}
+
+#signup-button {
+    align-self: center;
+    justify-self: center;
+}
+
+#signup-button button {
+    background-color:#3882f6;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    border-radius: 8px;
+    width: 164px;
+    height: auto;
+    padding: 8px;
+    font-weight: bold;
+}
+
 ul {
     list-style: none;
     display: flex;
