@@ -149,6 +149,13 @@ body {
     font-weight: bold;
 }
 
+.footer {
+    background-color:#1f2937;
+    text-align: center;
+    color: white;
+    padding: 16px 150px;
+}
+
 ul {
     list-style: none;
     display: flex;
